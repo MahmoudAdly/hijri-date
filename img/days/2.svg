@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="D:\Thaghra\hijri_date\img\days\1.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.0546875"
+     inkscape:cx="3.4527933"
+     inkscape:cy="35.701469"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36218)">
+    <g
+       transform="matrix(3.3620304,0,0,3.3620304,-2.9394184,952.76992)"
+       style="font-size:16.35916138000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:141.99999571000001000%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Gulim;-inkscape-font-specification:Gulim"
+       id="flowRoot2985">
+      <path
+         d="m 10.41632,14.089728 c -1.0863541,1.2e-5 -1.9490434,0.335502 -2.5880704,1.006471 -0.5644778,0.596439 -0.8467157,1.331322 -0.8467144,2.204653 l 0,0.415369 c -1.3e-6,0.181067 0.047926,0.324849 0.1437817,0.431346 0.095853,0.09586 0.2130083,0.143789 0.3514664,0.143781 0.1384545,8e-6 0.2556098,-0.04792 0.3514663,-0.143781 0.1065027,-0.09585 0.1597552,-0.223653 0.1597575,-0.383418 l 0,-0.463297 c -2.3e-6,-0.63902 0.2023569,-1.171544 0.6070782,-1.597574 0.4473175,-0.479262 1.0543951,-0.718898 1.8212347,-0.718909 0.76683,1.1e-5 1.379233,0.239647 1.837211,0.718909 0.404711,0.42603 0.607071,0.958554 0.607078,1.597574 -7e-6,0.777494 -0.239643,1.437824 -0.718909,1.980992 -0.372773,0.404726 -1.091681,0.93725 -2.156725,1.597575 -1.1183052,0.670985 -1.9383926,1.400544 -2.4602645,2.188677 -0.575128,0.862692 -0.8573659,1.879813 -0.8467144,3.051367 l 6.9813999,0 c 0.138448,0 0.250278,-0.04793 0.335491,-0.143782 0.0852,-0.0852 0.127797,-0.186384 0.127806,-0.303539 -9e-6,-0.127806 -0.04261,-0.234311 -0.127806,-0.319515 -0.08521,-0.0852 -0.197043,-0.127805 -0.335491,-0.127806 l -5.9270008,0 C 7.8069465,24.457987 8.0252815,23.829608 8.3874007,23.339683 8.8027669,22.76456 9.574927,22.125531 10.703883,21.422594 l 0.319515,-0.22366 c 1.043743,-0.660326 1.730699,-1.182199 2.060871,-1.565623 0.521867,-0.596421 0.782804,-1.373906 0.782812,-2.332459 -8e-6,-0.873331 -0.287572,-1.608214 -0.86269,-2.204653 C 12.354704,14.42523 11.492014,14.08974 10.41632,14.089728 z"
+         style="fill:#ffffff"
+         id="path2994" />
+    </g>
+  </g>
+</svg>

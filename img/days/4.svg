@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="4.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.0546875"
+     inkscape:cx="3.4527933"
+     inkscape:cy="35.701469"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-988.36218)">
+    <g
+       transform="matrix(3.3620304,0,0,3.3620304,-3.3422504,952.34023)"
+       style="font-size:16.35916138000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:141.99999571000001000%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Gulim;-inkscape-font-specification:Gulim"
+       id="flowRoot2985">
+      <path
+         d="m 11.726331,15.910962 0,6.486152 -4.2016205,0 z m -0.191709,-1.389889 -4.9684561,7.604454 c -0.1704086,0.266266 -0.2289863,0.521877 -0.1757332,0.766835 0.063902,0.255615 0.23431,0.383421 0.5112238,0.383418 l 4.8246745,0 0,2.620022 c -6e-6,0.159758 0.04792,0.282238 0.143782,0.367442 0.09585,0.0852 0.213003,0.127806 0.351466,0.127806 0.127799,0 0.239629,-0.0426 0.335491,-0.127806 0.106498,-0.09585 0.15975,-0.218335 0.159757,-0.367442 l 0,-2.620022 1.517696,0 c 0.149098,3e-6 0.266253,-0.04792 0.351466,-0.143782 0.0852,-0.0852 0.127797,-0.18638 0.127806,-0.303539 -9e-6,-0.117152 -0.03729,-0.218331 -0.11183,-0.303539 -0.08521,-0.0852 -0.191718,-0.127802 -0.319515,-0.127806 l -1.565623,0 0,-7.764211 c -7e-6,-0.340804 -0.149114,-0.521862 -0.447321,-0.543175 -0.29822,-0.01064 -0.543181,0.133143 -0.734884,0.431345 z"
+         style="fill:#ffffff"
+         id="path3000" />
+    </g>
+  </g>
+</svg>
