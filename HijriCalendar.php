@@ -15,6 +15,7 @@ class HijriCalendar
     function monthNumber($month) {
       switch ($month) {
         case "محرم":
+        case "المحرم":
             $month = 1;
             break;
         case "صفر":
@@ -26,9 +27,11 @@ class HijriCalendar
         case "ربيع الآخر":
             $month = 4;
             break;
+        case "جُمادى الأولى":
         case "جمادى الأولى":
             $month = 5;
             break;
+        case "جُمادى الآخرة":
         case "جمادى الآخرة":
             $month = 6;
             break;
@@ -45,9 +48,11 @@ class HijriCalendar
             $month = 10;
             break;
         case "ذي القعدة":
+        case "ذو القعدة":
             $month = 11;
             break;
         case "ذي الحجة":
+        case "ذو الحجة":
             $month = 12;
             break;
         default:
