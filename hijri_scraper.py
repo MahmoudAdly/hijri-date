@@ -1,3 +1,5 @@
+# You can add this to a cron job like:
+# 0 * * * * cd /user/mahmoud/hijri-date && python ./hijri_scraper.py
 import urllib2
 from HTMLParser import HTMLParser
 
